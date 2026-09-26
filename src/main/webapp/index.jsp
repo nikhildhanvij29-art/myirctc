@@ -26,6 +26,9 @@
     <label for="Mother"><b>mother</b></label>
     <input type="text" placeholder"mother name" name="mother" id="mother" required>
 
+    <label for="Father"><b>father</b></label>
+    <input type"text" placeholder"father name" name="father" id="father" required><label for="Father">
+
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>

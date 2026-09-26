@@ -24,10 +24,16 @@
     <input type="text" placeholder="Enter adharcard number" name="adhar" id="adhar" required>
 
     <label for="Mother"><b>mother</b></label>
-    <input type="text" placeholder"mother name" name="mother" id="mother" required>
+    <input type="text" placeholder"Enter mother name" name="mother" id="mother" required>
 
     <label for="Father"><b>father</b></label>
-    <input type"text" placeholder"father name" name="father" id="father" required><label for="Father">
+    <input type"text" placeholder"Enter father name" name="father" id="father" required>
+
+    <label for="Sister"><b>sister</b></label>
+    <input type"text" placeholder"Enter sister name" name="sister" id="sister" required>
+
+    <label for="Brother"><b>brother</b></label>
+    <input type"text" placeholder"Enter brother name" name="brother" id="brother" required>
 
     <hr>
 

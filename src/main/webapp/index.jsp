@@ -23,6 +23,9 @@
     <label for="Adhar"><b>Adhar</b></label>
     <input type="text" placeholder="Enter adharcard number" name="adhar" id="adhar" required>
 
+    <label for="Mother"><b>mother</b></label>
+    <input type="text" placeholder"mother name" name="mother" id="mother" required>
+
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>

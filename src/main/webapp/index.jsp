@@ -1,18 +1,16 @@
-</style>
-
 <form action="action_page.php">
   <div class="container">
+
     <h1>Welcome to MYIRCTC website developed by Nikhil!!</h1>
-    <h1>provide below information to book a train ticket!!</h1> 
+    <h1>Provide below information to book a train ticket!!</h1>
     <p>Please fill in this form</p>
     <hr>
 
-    <label for="email"><b>Name</b></label>
+    <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
 
-
     <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="email" placeholder="Enter Email" name="email" id="email" required>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
@@ -20,25 +18,30 @@
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
 
-    <label for="Adhar"><b>Adhar</b></label>
-    <input type="text" placeholder="Enter adharcard number" name="adhar" id="adhar" required>
+    <label for="adhar"><b>Aadhar</b></label>
+    <input type="text" placeholder="Enter Aadhar card number" name="adhar" id="adhar" required>
 
-    <label for="Mother"><b>mother</b></label>
-    <input type="text" placeholder"Enter mother name" name="mother" id="mother" required>
+    <label for="mother"><b>Mother</b></label>
+    <input type="text" placeholder="Enter mother name" name="mother" id="mother" required>
 
-    <label for="Father"><b>father</b></label>
-    <input type"text" placeholder"Enter father name" name="father" id="father" required>
+    <label for="father"><b>Father</b></label>
+    <input type="text" placeholder="Enter father name" name="father" id="father" required>
 
-    <label for="Sister"><b>sister</b></label>
-    <input type"text" placeholder"Enter sister name" name="sister" id="sister" required>
+    <label for="sister"><b>Sister</b></label>
+    <input type="text" placeholder="Enter sister name" name="sister" id="sister" required>
 
-    <label for="Brother"><b>brother</b></label>
-    <input type"text" placeholder"Enter brother name" name="brother" id="brother" required>
+    <label for="brother"><b>Brother</b></label>
+    <input type="text" placeholder="Enter brother name" name="brother" id="brother" required>
 
     <hr>
 
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+    <p>
+      By creating an account you agree to our
+      <a href="#">Terms & Privacy</a>.
+    </p>
+
     <button type="submit" class="registerbtn">Register</button>
+
   </div>
 
   <div class="container signin">

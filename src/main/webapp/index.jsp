@@ -22,26 +22,33 @@
     <input type="text" placeholder="Enter Aadhar card number" name="adhar" id="adhar" required>
 
     <label for="mother"><b>Mother</b></label>
-    <input type="text" placeholder="Enter mother name" name="mother" id="mother" required>
+    <input type="text" placeholder="Enter Mother name" name="mother" id="mother" required>
 
     <label for="father"><b>Father</b></label>
-    <input type="text" placeholder="Enter father name" name="father" id="father" required>
+    <input type="text" placeholder="Enter Father name" name="father" id="father" required>
 
     <label for="sister"><b>Sister</b></label>
-    <input type="text" placeholder="Enter sister name" name="sister" id="sister" required>
+    <input type="text" placeholder="Enter Sister name" name="sister" id="sister" required>
 
     <label for="brother"><b>Brother</b></label>
-    <input type="text" placeholder="Enter brother name" name="brother" id="brother" required>
+    <input type="text" placeholder="Enter Brother name" name="brother" id="brother" required>
+     
+    <label for="spouse"><b>Spouse</b></label>
+    <input type="text" placeholder="Enter Spouse name" name="spouse" id="spouse" required>
+
+    <label for="daughter"><b>Daughter</b></label>
+    <input type="text" placeholder="Enter Daughter name" name="daughter" id="daughter" required>
+
+    <label for="passport"><b>Brother</b></label>
+    <input type="text" placeholder="Enter Passport name" name="passport" id="passport" required>
+
+    <h1> This is a complete CI-CD DevOps Pipeline Project by Mr. Nikhil!!</h1>
+    <h1> Thank you, Happy Learning!!</h1>
 
     <hr>
 
-    <p>
-      By creating an account you agree to our
-      <a href="#">Terms & Privacy</a>.
-    </p>
-
+    <p> By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
-
   </div>
 
   <div class="container signin">
